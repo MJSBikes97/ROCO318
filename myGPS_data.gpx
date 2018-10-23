@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="50.374735000000001" minlon="-4.140205000000000" maxlat="50.374839999999999" maxlon="-4.140153300000000"/></metadata>                  
+<wpt lat="50.374775" lon="-4.1401833">
+  <extensions>
+    <ogr:lat>50.374775</ogr:lat>
+    <ogr:lon>-4.1401833</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747783" lon="-4.1401833">
+  <extensions>
+    <ogr:lat>50.3747783</ogr:lat>
+    <ogr:lon>-4.1401833</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747783" lon="-4.1401833">
+  <extensions>
+    <ogr:lat>50.3747783</ogr:lat>
+    <ogr:lon>-4.1401833</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747767" lon="-4.1401833">
+  <extensions>
+    <ogr:lat>50.3747767</ogr:lat>
+    <ogr:lon>-4.1401833</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747783" lon="-4.1401867">
+  <extensions>
+    <ogr:lat>50.3747783</ogr:lat>
+    <ogr:lon>-4.1401867</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747783" lon="-4.140185">
+  <extensions>
+    <ogr:lat>50.3747783</ogr:lat>
+    <ogr:lon>-4.140185</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747783" lon="-4.140185">
+  <extensions>
+    <ogr:lat>50.3747783</ogr:lat>
+    <ogr:lon>-4.140185</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747783" lon="-4.140185">
+  <extensions>
+    <ogr:lat>50.3747783</ogr:lat>
+    <ogr:lon>-4.140185</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37478" lon="-4.140185">
+  <extensions>
+    <ogr:lat>50.37478</ogr:lat>
+    <ogr:lon>-4.140185</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747817" lon="-4.1401817">
+  <extensions>
+    <ogr:lat>50.3747817</ogr:lat>
+    <ogr:lon>-4.1401817</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.374785" lon="-4.1401817">
+  <extensions>
+    <ogr:lat>50.374785</ogr:lat>
+    <ogr:lon>-4.1401817</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.374785" lon="-4.1401833">
+  <extensions>
+    <ogr:lat>50.374785</ogr:lat>
+    <ogr:lon>-4.1401833</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747833" lon="-4.1401767">
+  <extensions>
+    <ogr:lat>50.3747833</ogr:lat>
+    <ogr:lon>-4.1401767</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747767" lon="-4.1401717">
+  <extensions>
+    <ogr:lat>50.3747767</ogr:lat>
+    <ogr:lon>-4.1401717</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747633" lon="-4.14017">
+  <extensions>
+    <ogr:lat>50.3747633</ogr:lat>
+    <ogr:lon>-4.14017</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37475" lon="-4.1401733">
+  <extensions>
+    <ogr:lat>50.37475</ogr:lat>
+    <ogr:lon>-4.1401733</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747383" lon="-4.1401783">
+  <extensions>
+    <ogr:lat>50.3747383</ogr:lat>
+    <ogr:lon>-4.1401783</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.374735" lon="-4.14018">
+  <extensions>
+    <ogr:lat>50.374735</ogr:lat>
+    <ogr:lon>-4.14018</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747383" lon="-4.1401733">
+  <extensions>
+    <ogr:lat>50.3747383</ogr:lat>
+    <ogr:lon>-4.1401733</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747483" lon="-4.14017">
+  <extensions>
+    <ogr:lat>50.3747483</ogr:lat>
+    <ogr:lon>-4.14017</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37476" lon="-4.140175">
+  <extensions>
+    <ogr:lat>50.37476</ogr:lat>
+    <ogr:lon>-4.140175</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747667" lon="-4.1401767">
+  <extensions>
+    <ogr:lat>50.3747667</ogr:lat>
+    <ogr:lon>-4.1401767</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.374765" lon="-4.1401767">
+  <extensions>
+    <ogr:lat>50.374765</ogr:lat>
+    <ogr:lon>-4.1401767</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747667" lon="-4.1401783">
+  <extensions>
+    <ogr:lat>50.3747667</ogr:lat>
+    <ogr:lon>-4.1401783</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747767" lon="-4.1401833">
+  <extensions>
+    <ogr:lat>50.3747767</ogr:lat>
+    <ogr:lon>-4.1401833</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37478" lon="-4.140185">
+  <extensions>
+    <ogr:lat>50.37478</ogr:lat>
+    <ogr:lon>-4.140185</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747817" lon="-4.1401867">
+  <extensions>
+    <ogr:lat>50.3747817</ogr:lat>
+    <ogr:lon>-4.1401867</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747817" lon="-4.1401917">
+  <extensions>
+    <ogr:lat>50.3747817</ogr:lat>
+    <ogr:lon>-4.1401917</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747767" lon="-4.1401967">
+  <extensions>
+    <ogr:lat>50.3747767</ogr:lat>
+    <ogr:lon>-4.1401967</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747733" lon="-4.1402">
+  <extensions>
+    <ogr:lat>50.3747733</ogr:lat>
+    <ogr:lon>-4.1402</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37476" lon="-4.1402033">
+  <extensions>
+    <ogr:lat>50.37476</ogr:lat>
+    <ogr:lon>-4.1402033</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747583" lon="-4.140205">
+  <extensions>
+    <ogr:lat>50.3747583</ogr:lat>
+    <ogr:lon>-4.140205</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747617" lon="-4.140205">
+  <extensions>
+    <ogr:lat>50.3747617</ogr:lat>
+    <ogr:lon>-4.140205</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747633" lon="-4.1402">
+  <extensions>
+    <ogr:lat>50.3747633</ogr:lat>
+    <ogr:lon>-4.1402</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747633" lon="-4.1402">
+  <extensions>
+    <ogr:lat>50.3747633</ogr:lat>
+    <ogr:lon>-4.1402</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37476" lon="-4.140195">
+  <extensions>
+    <ogr:lat>50.37476</ogr:lat>
+    <ogr:lon>-4.140195</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747683" lon="-4.1401867">
+  <extensions>
+    <ogr:lat>50.3747683</ogr:lat>
+    <ogr:lon>-4.1401867</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747733" lon="-4.14018">
+  <extensions>
+    <ogr:lat>50.3747733</ogr:lat>
+    <ogr:lon>-4.14018</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3747717" lon="-4.1401767">
+  <extensions>
+    <ogr:lat>50.3747717</ogr:lat>
+    <ogr:lon>-4.1401767</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37478" lon="-4.1401633">
+  <extensions>
+    <ogr:lat>50.37478</ogr:lat>
+    <ogr:lon>-4.1401633</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.374795" lon="-4.1401583">
+  <extensions>
+    <ogr:lat>50.374795</ogr:lat>
+    <ogr:lon>-4.1401583</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37481" lon="-4.1401567">
+  <extensions>
+    <ogr:lat>50.37481</ogr:lat>
+    <ogr:lon>-4.1401567</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3748217" lon="-4.1401567">
+  <extensions>
+    <ogr:lat>50.3748217</ogr:lat>
+    <ogr:lon>-4.1401567</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.3748317" lon="-4.1401533">
+  <extensions>
+    <ogr:lat>50.3748317</ogr:lat>
+    <ogr:lon>-4.1401533</ogr:lon>
+  </extensions>
+</wpt>
+<wpt lat="50.37484" lon="-4.1401533">
+  <extensions>
+    <ogr:lat>50.37484</ogr:lat>
+    <ogr:lon>-4.1401533</ogr:lon>
+  </extensions>
+</wpt>
+</gpx>
